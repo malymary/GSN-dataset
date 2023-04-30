@@ -1,7 +1,7 @@
 # GSN_dataset
 
-The dataset is created according to the description in ["GSN: A Graph-Structured Network for Multi-Party Dialogues"](https://github.com/morning-dews/GSN-Dialogues) on the basis of the [Molweni Dataset](https://github.com/HIT-SCIR/Molweni).
+The dataset was created with the aim of reproducing the experimental results of ["GSN: A Graph-Structured Network for Multi-Party Dialogues"](https://github.com/morning-dews/GSN-Dialogues) by transforming the [Molweni Dataset](https://github.com/HIT-SCIR/Molweni).
 
-**GSN_dataset** folder contains the dataset. It is split into training, validation and testing sets.
+**GSN_dataset** folder stores the dataset as three separate sets: training, validation, and testing.
 
-**molweni_for_gsn** folder contains the data and code necessary to reproduce the dataset.
+**molweni_for_gsn** folder stores the input data and code necessary to create the dataset.
