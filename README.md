@@ -1,6 +1,6 @@
 # GSN Dataset
 
-The dataset was generated with the aim of reproducing the experimental results of ["GSN: A Graph-Structured Network for Multi-Party Dialogues"](https://github.com/morning-dews/GSN-Dialogues) by transforming the [Molweni Dataset](https://github.com/HIT-SCIR/Molweni).
+The dataset was generated with the aim of reproducing the experimental results of ["GSN: A Graph-Structured Network for Multi-Party Dialogues"](https://github.com/morning-dews/GSN-Dialogues) by restructuring the [Molweni Dataset](https://github.com/HIT-SCIR/Molweni).
 
 ### Training, Validation, Testing
 
